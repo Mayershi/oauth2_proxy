@@ -1,6 +1,8 @@
 oauth2_proxy
 =================
 
+This fork adds dingtalk(钉钉) provider that is the most popular OA tool in China. You can either build it from source or pull pre-built docker image(`docker pull registry-vpc.cn-beijing.aliyuncs.com/i-counting/oauth2-proxy:2.2.1-alpha-dingtalk`).
+
 A reverse proxy and static file server that provides authentication using Providers (Google, GitHub, and others)
 to validate accounts by email, domain or group.
 
